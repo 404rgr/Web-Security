@@ -2,7 +2,7 @@
     "name": "websec/web-security",
     "description": "PHP Web Security",
     "type": "library",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
 
     "license": "MIT",
     "authors": [
